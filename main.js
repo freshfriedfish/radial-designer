@@ -158,7 +158,7 @@ pane.addBinding(PARAMS, 'welcome', {
     folder.addButton({
         title: 'README',
     }).on('click', () => {
-        window.open('https://github.com/freshfriedfish/osu-rad');
+        window.open('https://github.com/freshfriedfish/radial-designer');
     });
 
 })(pane.addFolder({
