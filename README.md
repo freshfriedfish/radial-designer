@@ -13,3 +13,9 @@ Note that all parameters modify only the first shape
 - Import: Import a .osu file. The program takes the last slider of the beatmap
 - Export: Copy all & paste into the [HitObjects] section of your beatmap
   - note that exported sliders use the beatmap snap divisor of your inputted beatmap
+
+All code written with ❤️ by freshfriedfish
+### Acknowledgments
+kionell for developing osu-parsers & osu-classes
+
+Marvin for miscellaneous pixi.js help
