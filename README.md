@@ -1,7 +1,6 @@
 # Radial Designer
 ![alt text](https://github.com/freshfriedfish/radial-designer/blob/master/public/cool%20thumb%201.jpg?raw=true)
 
-All code written with ❤️ by [freshfriedfish](https://freshfriedfish.github.io/)
 ## Parameters
 Note that all parameters modify only the first shape
 - Copies: # of copies
