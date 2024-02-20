@@ -15,7 +15,7 @@ Note that all parameters modify only the first shape
   - note that exported sliders use the beatmap snap divisor of your inputted beatmap
 
 All code written with ❤️ by freshfriedfish
-### Acknowledgments
+## Acknowledgments
 kionell for developing osu-parsers & osu-classes
 
 Marvin for miscellaneous pixi.js help
